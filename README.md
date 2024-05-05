@@ -1,6 +1,6 @@
-# Balatro-ColoredSuitTarots
+# Balatro-ConsistentJokerSuitColors
 
-Texture pack for Balatro that colors the suit-changing tarot cards to their respective suits.
+Texture pack for Balatro that changes the colors of the suit-specific jokers based on the current suit colors.
 
 Both Normal and High Contrast versions are available and is automatically selected based on your settings.
 
@@ -11,6 +11,9 @@ Reload your game after changing your settings to apply the other color scheme.
 - Go to `%AppData%\Balatro\Mods`
 - Extract the zip file into the folder
 
-![Normal Version](https://raw.githubusercontent.com/ywssp/Balatro-ColoredSuitTarots/main/dev/Converter%20Tarots%20Normal.png)
-![High Contrast Version](https://raw.githubusercontent.com/ywssp/Balatro-ColoredSuitTarots/main/dev/Converter%20Tarots%20High%20Contrast.png)
+## Chaanged Jokers
+### Low Contrast (Gem Jokers)
+![Gem Jokers](https://raw.githubusercontent.com/ywssp/Balatro-ConsistentJokerSuitColors/main/dev/Jokers_Normal.png)
+### High Contrast (Sinful Jokers)
+![Sinful Jokers](https://raw.githubusercontent.com/ywssp/Balatro-ConsistentJokerSuitColors/main/dev/Jokers_HighContrast.png)
 
